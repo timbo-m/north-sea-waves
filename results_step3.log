@@ -1,0 +1,16 @@
+seabed ...
+  grid (2200, 3000), shallow cells 998684
+hindcast ...
+  22 points, 24.9 years, every 3 h
+triggers + climate ...
+  67% of shallow cells have hindcast within 110 km
+  443 breaking areas
+211 banks written
+  rays over Hammond Knoll: 12 breaking
+  rays over Shoal 57 km off Cromer: 3 breaking
+  rays over Shoal 4 km off Hartlepool: 28 breaking
+  rays over Dogger Bank, central: 6 breaking
+  rays over Shoal 14 km off Tynemouth: 22 breaking
+  rays over Shoal 63 km off Cromer: 5 breaking
+  rays over Hammond Knoll (2): 15 breaking
+  rays over Dogger Bank, central (2): 3 breaking
